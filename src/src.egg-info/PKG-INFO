@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: src
+Version: 0.0.1
+Summary: A small example package for movie recommendation
+Author: SRIRAM
+Requires-Python: >=3.5
+Requires-Dist: stremlit
+Dynamic: author
+Dynamic: description
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+
+Movies Recommendation System
